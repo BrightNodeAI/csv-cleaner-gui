@@ -9,11 +9,11 @@ Built with Tkinter and Pandas. Designed for data analysts and non-technical clie
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 ---
-
 ## Screenshot
 
-Add a screenshot or demo GIF here after running the app.
-
+![CSV Cleaner GUI](CSV_Cleaner_1.png)
+![CSV Cleaner GUI](CSV_Cleaner_2.png)
+![CSV Cleaner GUI](CSV_Cleaner_3.png)
 ---
 
 ## What It Does
